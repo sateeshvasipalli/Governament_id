@@ -8,7 +8,7 @@ export default function DashboardHomePage() {
   const modules = [
     {
       title: 'Aadhar Card Validation',
-      description: 'Validate Aadhar cards using Our AI checks for tampering and extracts data with high accuracy.',
+      description: 'Validate Aadhar cards using Our AI checks for tampering and extracts data.',
       href: '/aadhaar',
       color: 'tricolor-dark' as const,
       icon: 'aadhar' as const,
